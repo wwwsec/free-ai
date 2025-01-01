@@ -1,2 +1,2 @@
 # free-ai
-free ai tools and apis
+持续记录和评测可以免费试用的AI工具
